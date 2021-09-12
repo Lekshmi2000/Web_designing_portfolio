@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Bangers&display=swap');
+
+
+.name-lekshmi { 
+    font-family: 'Bangers', cursive;
+    font-size: 45px;
+    letter-spacing: 5px;
+    text-shadow: 3px 1px 9px #050800;
+}
+
+.skill-card{
+    transition: transform .3s;
+    
+}
+
+.skill-card:hover {
+    background-color: #89FC00;
+    transform: scale(1.06);
+    box-shadow: 1px 3px 24px -1px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 1px 3px 24px -1px rgba(0,0,0,0.75);
+    -moz-box-shadow: 1px 3px 24px -1px rgba(0,0,0,0.75);
+}
+
+.ach-card{
+    transition: transform .3s;
+    
+}
+
+.ach-card:hover {
+    background-color: #04E762;
+    transform: scale(1.06);
+    box-shadow: 1px 3px 24px -1px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 1px 3px 24px -1px rgba(0,0,0,0.75);
+    -moz-box-shadow: 1px 3px 24px -1px rgba(0,0,0,0.75);
+}
+
+.navigation-bar a{
+    text-shadow: 3px 1px 9px #050800;
+}
+
+.navigation-bar a:hover{
+    color: #04E762 !important;
+}
+
+.footer a:hover{
+    color: #04E762 !important;
+}
